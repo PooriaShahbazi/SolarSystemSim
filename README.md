@@ -28,3 +28,7 @@ Core Components:
 •	AstronomySimulator: Manages object creation and orchestrates the simulation loop.
 
 This project is ideal for those interested in learning about simulations, physics engines, and graphical Java applications.
+
+
+# Visual presentation of the app
+![Alt text](ScreenShot_1.png)
