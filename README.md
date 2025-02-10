@@ -31,4 +31,4 @@ This project is ideal for those interested in learning about simulations, physic
 
 
 # Visual presentation of the app
-![Alt text](ScreenShot_1.png)
+![Alt text](Screenshot_1.png)
